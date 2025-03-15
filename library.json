@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1926,
+        "genre": "Classic",
+        "read": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Smith Larry",
+        "year": 1997,
+        "genre": "Shounien",
+        "read": true
+    },
+    {
+        "title": "end of the world",
+        "author": "saim",
+        "year": 2025,
+        "genre": "Theatre",
+        "read": false
+    },
+    {
+        "title": "hello world",
+        "author": "saim",
+        "year": 7984,
+        "genre": "pata nai",
+        "read": true,
+        "cover_url": "",
+        "rating": 3
+    }
+]
